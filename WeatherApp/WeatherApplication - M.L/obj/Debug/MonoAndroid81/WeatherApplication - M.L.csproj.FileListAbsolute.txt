@@ -1,0 +1,8 @@
+C:\Users\HP\Documents\GitHub\UnfinishedAssignments\WeatherApp\WeatherApp\obj\Debug\MonoAndroid81\WeatherApplication - M.L.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\UnfinishedAssignments\WeatherApp\WeatherApp\obj\Debug\MonoAndroid81\res.flag
+C:\Users\HP\Documents\GitHub\UnfinishedAssignments\WeatherApp\WeatherApp\obj\Debug\MonoAndroid81\WeatherApp.dll
+C:\Users\HP\Documents\GitHub\UnfinishedAssignments\WeatherApp\WeatherApp\obj\Debug\MonoAndroid81\WeatherApp.pdb
+C:\Users\HP\Documents\GitHub\UnfinishedAssignments\WeatherApp\WeatherApplication - M.L\obj\Debug\MonoAndroid81\WeatherApplication - M.L.csprojAssemblyReference.cache
+C:\Users\HP\Documents\GitHub\UnfinishedAssignments\WeatherApp\WeatherApplication - M.L\obj\Debug\MonoAndroid81\res.flag
+C:\Users\HP\Documents\GitHub\UnfinishedAssignments\WeatherApp\WeatherApplication - M.L\obj\Debug\MonoAndroid81\WeatherApp.dll
+C:\Users\HP\Documents\GitHub\UnfinishedAssignments\WeatherApp\WeatherApplication - M.L\obj\Debug\MonoAndroid81\WeatherApp.pdb
